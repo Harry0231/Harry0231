@@ -4,11 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Competitive+Coding;DS%20|%20Algorithms%20|%20OOPS%20;Specialist%20on%20Codewars;5%20Kyu%20on%20Codewars;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-
-
-
-
 ## :sassy_man:  About me
 - :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
 - :technologist: I love  `Problem Solving`
@@ -16,11 +11,6 @@
 - :thinking: This is [MY RESUME]().
 - :nerd_face: Always `Eager to learn new things`
 <br></br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshunamdev1805&theme=algolia" alt="himanshunamdev1805" /></p>
-
-<br>
 
 ## 👀 My Competitive Programming Profiles
 
