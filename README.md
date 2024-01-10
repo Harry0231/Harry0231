@@ -8,7 +8,18 @@
 - :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://github.com/Harry0231/Resume/commits/main/Haranarayan%20Singh%20Resume.pdf).
+- :thinking: This is [MY RESUME]
+- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= (https://github.com/Harry0231/Resume/commits/main/Haranarayan%20Singh%20Resume.pdf) &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>(https://github.com/Harry0231/Resume/commits/main/Haranarayan%20Singh%20Resume.pdf).
 - :nerd_face: Always `Eager to learn new things`
 <br></br>
 
