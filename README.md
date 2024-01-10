@@ -8,7 +8,7 @@
 - :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME]().
+- :thinking: This is [MY RESUME](https://github.com/Harry0231/Resume/commits/main/Haranarayan%20Singh%20Resume.pdf).
 - :nerd_face: Always `Eager to learn new things`
 <br></br>
 
